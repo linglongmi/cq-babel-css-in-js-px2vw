@@ -1,0 +1,21 @@
+{
+  "name": "cq-babel-css-in-js-px2vw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "行内样式转vw",
+    "webpack",
+    "loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linglongmi/cq-babel-css-in-js-px2vw.git",
+    "directory": "cq-babel-css-in-js-px2vw"
+  },
+  "author": "linglongmi",
+  "license": "ISC"
+}
